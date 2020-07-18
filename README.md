@@ -11,7 +11,22 @@ This application provides all the details of the requested movie such as overvie
 
 The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org/documentation/api, and using the IMDB id of the movie in the API, I did web scraping to get the reviews given by the user in the IMDB site using `beautifulsoup4` and performed sentiment analysis on those reviews.
 
-Check out the live demo: https://the-movie-cinema.herokuapp.com/
+Check out the live demo: https://know-your-movie-better.herokuapp.com/
+[![](https://imgur.com/IEhGZzi.png)](https://know-your-movie-better.herokuapp.com/)
+
+[![](https://imgur.com/AcK81p0.png)](https://know-your-movie-better.herokuapp.com/)
+
+[![](https://imgur.com/IZNBlnd.png)](https://know-your-movie-better.herokuapp.com/)
+
+[![](https://imgur.com/eDZ9wdj.png)](https://know-your-movie-better.herokuapp.com/)
+
+[![](https://imgur.com/495ZRzq.png)](https://know-your-movie-better.herokuapp.com/)
+
+[![](https://imgur.com/8pJjt2f.png)](https://know-your-movie-better.herokuapp.com/)
+
+[![](https://imgur.com/7Ip5fDJ.png)](https://know-your-movie-better.herokuapp.com/)
+
+
 
 ## Note
 
